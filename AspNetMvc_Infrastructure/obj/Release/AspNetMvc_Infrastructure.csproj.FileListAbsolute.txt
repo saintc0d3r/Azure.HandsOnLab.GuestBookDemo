@@ -1,5 +1,0 @@
-D:\Projects\Windows Azure\GuestBookDemo\AspNetMvc_Infrastructure\bin\Release\AspNetMvc_Infrastructure.dll
-D:\Projects\Windows Azure\GuestBookDemo\AspNetMvc_Infrastructure\bin\Release\AspNetMvc_Infrastructure.pdb
-D:\Projects\Windows Azure\GuestBookDemo\AspNetMvc_Infrastructure\obj\Release\AspNetMvc_Infrastructure.csprojResolveAssemblyReference.cache
-D:\Projects\Windows Azure\GuestBookDemo\AspNetMvc_Infrastructure\obj\Release\AspNetMvc_Infrastructure.dll
-D:\Projects\Windows Azure\GuestBookDemo\AspNetMvc_Infrastructure\obj\Release\AspNetMvc_Infrastructure.pdb
