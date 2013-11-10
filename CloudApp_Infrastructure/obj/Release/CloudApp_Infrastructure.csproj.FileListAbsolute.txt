@@ -1,0 +1,10 @@
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\bin\Release\CloudApp_Infrastructure.dll
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\bin\Release\CloudApp_Infrastructure.pdb
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\bin\Release\Microsoft.WindowsAzure.Storage.dll
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\bin\Release\Microsoft.Data.OData.dll
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\bin\Release\Microsoft.Data.Edm.dll
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\bin\Release\System.Spatial.dll
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\bin\Release\Microsoft.WindowsAzure.Storage.xml
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\obj\Release\CloudApp_Infrastructure.csprojResolveAssemblyReference.cache
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\obj\Release\CloudApp_Infrastructure.dll
+D:\Projects\Windows Azure\GuestBookDemo\CloudApp_Infrastructure\obj\Release\CloudApp_Infrastructure.pdb
